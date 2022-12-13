@@ -1,0 +1,13 @@
+9
+xyz
+zba
+abc
+zba
+xyz
+czd
+abc
+cab
+czd
+2
+czd
+cab
