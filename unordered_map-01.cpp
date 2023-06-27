@@ -50,8 +50,8 @@ int main(){
     auto x =mp.find(7);
     /* 
     NOTE:
-        -->this is to insure that iterator is pointing within the mapor outside of map
-        -->if iterator is pointing outside of map ithen it will thrwow segmentation erroe
+        -->this is to insure that iterator is pointing within the map or outside of map
+        -->if iterator is pointing outside of map ithen it will throw segmentation error
     */
     if(x!=mp.end())
     mp.erase(x);
